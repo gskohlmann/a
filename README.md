@@ -2,7 +2,7 @@
     <a href="#wanted">Wanted</a> &bull;
     <a href="#motivation">Motivation</a> &bull;
     <a href="#posts">Posts</a> &bull;
-    <a href="#installation">Installation</a>
+    <a href="#autores">Autores</a>
 </p>
 -------
 

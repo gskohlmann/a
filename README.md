@@ -1,5 +1,5 @@
 # tm-pds-g10
-#                                                   E-commerce
+#                                                   Wanted E-commerce
 
 ![imagemok](https://user-images.githubusercontent.com/42629929/49120576-5b8f4e00-f294-11e8-8909-132379ef4eed.jpeg)
 
@@ -19,13 +19,6 @@ estudado em sala de aula na matéria de programação e desenvolvimento de softw
 > Utilização de métodos public, private e protected visando a redução do acesso a variáveis e métodos, sempre que necessário.
 - Refatoração do código para evitar "Bad Smells"
 > Evitou-se inveja de features,duplicação de código e intimidade exacerbada.
-
-
-
-
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 

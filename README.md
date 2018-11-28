@@ -1,7 +1,7 @@
 <p align="center">
-    <a href="#wanted e-commerce">Wanted</a> &bull;
-    <a href="#motivation">Motivation</a> &bull;
-    <a href="#posts">Posts</a> &bull;
+    <a href="#wanted-e-commerce">Wanted</a> &bull;
+    <a href="#conteúdo-estudado-e-seu-uso-no-projeto">Conteúdo estudado</a> &bull;
+    <a href="#ferramentas-utilizadas">Ferramentas</a> &bull;
     <a href="#autores">Autores</a>
 </p>
 -------
@@ -27,7 +27,7 @@ estudado em sala de aula na matéria de programação e desenvolvimento de softw
 - Refatoração do código para evitar "Bad Smells"
 > Evitou-se inveja de features,duplicação de código e intimidade exacerbada.
 
-## Built With
+## Ferramentas utilizadas
 
 * [Code::Blocks](http://www.codeblocks.org/) - O projeto foi desenvolvido utilizando a IDE CodeBlocks
 

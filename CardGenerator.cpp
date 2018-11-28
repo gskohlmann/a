@@ -58,7 +58,7 @@ int main(){
 		card_num = rand() % + 99999999 + 90000000;
 	} while ((card_num % 29 != 0));
 
-	std::cout << card_num << "\n";
+	std::cout << card_num << "\n\n";
 
     system("pause");
     return 0;

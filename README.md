@@ -1,4 +1,3 @@
-# tm-pds-g10
 #                                                   Wanted E-commerce
 
 ![imagemok](https://user-images.githubusercontent.com/42629929/49120576-5b8f4e00-f294-11e8-8909-132379ef4eed.jpeg)
@@ -88,7 +87,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## Autores
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 

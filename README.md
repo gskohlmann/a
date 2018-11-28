@@ -1,6 +1,10 @@
-| [Wanted] | [Conteúdo estudado] | [Informes] | [Calendário] | [Exemplos] | [TPs] | [Livros] | [Autores] |
-|---------------------|------------|--------------|------------|-------|----------|-----------|
-- - -
+<p align="center">
+    <a href="#wanted">Wanted</a> &bull;
+    <a href="#motivation">Motivation</a> &bull;
+    <a href="#posts">Posts</a> &bull;
+    <a href="#installation">Installation</a>
+</p>
+-------
 
 #                                                   Wanted E-commerce
 
@@ -87,6 +91,3 @@ Add additional notes about how to deploy this on a live system
 * **Izabela Borges Batalha**
 * **Pedro Henrique de Paula**
 * **Renato Junio Costa Correia**
-
-[Wanted]: #wanted e-commerce
-[Autores]: #autores

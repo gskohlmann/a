@@ -4,7 +4,7 @@
     <a href="#ferramentas-utilizadas">Ferramentas</a> &bull;
     <a href="#autores">Autores</a>
 </p>
--------
+
 
 #                                                   Wanted E-commerce
 

@@ -29,7 +29,7 @@ estudado em sala de aula na matéria de programação e desenvolvimento de softw
 
 ## Ferramentas utilizadas
 
-* [Code::Blocks](http://www.codeblocks.org/) - O projeto foi desenvolvido utilizando a IDE CodeBlocks
+* O projeto foi desenvolvido no sistema operacional Windows, utilizando a IDE [Code::Blocks](http://www.codeblocks.org/) e as ferramentas de compilação e depuração padrões instaladas nela.
 
 ## Autores
 

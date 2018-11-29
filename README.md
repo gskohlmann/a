@@ -2,6 +2,7 @@
     <a href="#wanted-e-commerce">Wanted</a> &bull;
     <a href="#conteúdo-estudado-e-seu-uso-no-projeto">Conteúdo estudado</a> &bull;
     <a href="#ferramentas-utilizadas">Ferramentas</a> &bull;
+    <a href="#funcionamento-do-programa">Funcionamento</a> &bull;
     <a href="#autores">Autores</a>
 </p>
 
@@ -30,6 +31,22 @@ estudado em sala de aula na matéria de programação e desenvolvimento de softw
 ## Ferramentas utilizadas
 
 * O projeto foi desenvolvido no sistema operacional Windows, utilizando a IDE [Code::Blocks](http://www.codeblocks.org/) e as ferramentas de compilação e depuração padrões instaladas nela.
+
+## Funcionamento do programa
+Inicialmente o usuário pode escolher entre criar uma conta ou fazer login se já estiver cadastrado.
+
+![login](https://user-images.githubusercontent.com/42399508/49194333-da09ef80-f369-11e8-8fe0-dac5f9794808.gif)
+
+Como Cliente, o usuário tem as seguintes opções na loja:
+* Ver/Alterar seus dados;
+* Ver o histórico de compras;
+* Buscar um produto na loja;
+* Comprar um produto.
+
+Como Gerente, o usuário tem as seguintes opções:
+* Ver/Alterar seus dados, além de alterar senhas e o limite do cartao de um cliente;
+* Criar uma nova conta de Administrador;
+* Adicionar um produto na loja.
 
 ## Autores
 
